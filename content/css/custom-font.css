@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Lalezar;
+    src: url('../fonts/Lalezar-Regular.ttf');
+}
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/static/Vazirmatn-Bold.ttf');
+    font-weight: bolder;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/static/Vazirmatn-Regular.ttf');
+    font-weight: lighter;
+}
+@font-face {
+    font-family: Vazir;
+    src: url('../fonts/static/Vazirmatn-Medium.ttf');
+    font-weight: normal;
+}
